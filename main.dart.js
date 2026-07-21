@@ -85176,7 +85176,7 @@ k=q.r.a.a
 j=" *NUEVA ORDEN - MAKE YOUR OWN* \n\n"+("*Cliente:* "+n+"\n")+(" *Tel\xe9fono:* "+m+"\n")+(" *Direcci\xf3n:* "+l+"\n")
 if(k.length!==0)j+=" *Notas:* "+k+"\n"
 p=q.a
-o=A.kU("https://wa.me/19392457912?text="+A.Fc(2,j+"\n *Resumen de la Orden:*\n"+(p.d+"\n\n")+("*Total a pagar:* $"+B.d.a3(p.c,2)+"\n"),B.ai,!1),0,null)
+o=A.kU("https://wa.me/17874862944?text="+A.Fc(2,j+"\n *Resumen de la Orden:*\n"+(p.d+"\n\n")+("*Total a pagar:* $"+B.d.a3(p.c,2)+"\n"),B.ai,!1),0,null)
 s=5
 return A.S(A.auZ(o),$async$rv)
 case 5:s=b?2:4
