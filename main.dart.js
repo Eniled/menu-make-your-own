@@ -87792,7 +87792,7 @@ $S:0}
 A.al1.prototype={
 $0(){var s,r,q=this.a,p=q.e
 if(p===B.bb)p="Burger"
-else p=p===B.dl?"MYO Fries Regulares":"MYO Fries Minis"
+else p=p===B.dl?"MYO Fries Regular":"MYO Fries Mini"
 s=A.ar(["titulo",p,"detalles",q.a7t(),"precio",q.gXt()],t.N,t.K)
 p=q.bL
 r=q.am
